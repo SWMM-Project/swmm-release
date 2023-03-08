@@ -1,6 +1,6 @@
 # swmm-release
 
-US EPA SWMM releases
+US EPA SWMM Releases
 
 | Version    | Build      | Download   | Notes     |
 | ---------- | ---------- | ---------- |---------- |
