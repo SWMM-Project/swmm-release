@@ -1,12 +1,7 @@
 # swmm-release
 
-US EPA SWMM Releases
+## US EPA SWMM v5.2 Releases
 
 | Version    | Build      | Link       |
 | ---------- | ---------- | ---------- |
-| v5.0.5-a   | 05/25/2005 | *[Download](https://github.com/SWMM-Project/swmm-release/releases/tag/v5.0.5-a)* |
-| v5.0.5     | 05/20/2005 | *[Download](https://github.com/SWMM-Project/swmm-release/releases/tag/v5.0.5)*   |
-| v5.0.4     | 12/16/2004 | *[Download](https://github.com/SWMM-Project/swmm-release/releases/tag/v5.0.4)*   |
-| v5.0.3     | 11/10/2004 | *[Download](https://github.com/SWMM-Project/swmm-release/releases/tag/v5.0.3)*   |
-| v5.0.2     | 11/01/2004 | *[Download](https://github.com/SWMM-Project/swmm-release/releases/tag/v5.0.2)*   |
-| v5.0.1     | 10/28/2004 | *[Download](https://github.com/SWMM-Project/swmm-release/releases/tag/v5.0.1)*   |
+| v5.2.3     | 02/12/2023 | *[Download](https://github.com/SWMM-Project/swmm-release/releases/tag/v5.2.3)* |
